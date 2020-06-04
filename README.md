@@ -11,3 +11,5 @@ PHP-reverse_shell - Most web servers will have PHP installed, and this too can p
 Java-reverse_shell - Java is likely to be available on application servers
 
 Ruby-reverse_shell - Ruby is another popular web application language that’s likely to have an interpreter on a general-purpose server system.
+
+Powershell-reverse_shell - 
